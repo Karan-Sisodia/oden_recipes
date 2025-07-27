@@ -21,3 +21,31 @@ a{
     text-decoration: none;
     
 }
+.dhokla{
+    background-color:#ffff3f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 71, 0);
+
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+.rice{
+     background-color:#d6d5c9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #a22c29;
+}
+.tomato{
+      background-color:#f5f0bc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #d62c29;
+
+}
